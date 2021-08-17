@@ -11,5 +11,5 @@
 - 💬 Ask me about Web Development using React Library.
 - 📫 How to reach me:[Twitter](https://twitter.com/Ijay_js), [LinkedIn](https://www.linkedin.com/in/ijayabby4/)
 - ⚡ Fun fact: I am great in bed 😂, I can sleep 🛌 for hours.
--
 
+![Ijay's github stats](https://github-readme-stats.vercel.app/api?username=IjayAbby&show_icons=true&theme=dracula)
