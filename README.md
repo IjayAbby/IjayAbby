@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hello 👋, I am Ijay Abby 🤝 
 
-<!--
-**IjayAbby/IjayAbby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/IjayAbby/count.svg" />
+</p>
 
-Here are some ideas to get you started:
+- 🔭 I’m currently a fulltime student at Microverse.
+- 🌱 I’m currently learning FullStack web development, working collaboratively in a remote environment and agile methodologies. 
+- 👯 I’m looking to collaborate on any Open Source projects.
+- 💬 Ask me about Web Development using React Library.
+- 📫 How to reach me:[Twitter](https://twitter.com/Ijay_js), [LinkedIn](https://www.linkedin.com/in/ijayabby4/)
+- ⚡ Fun fact: I am great in bed 😂, I can sleep 🛌 for hours.
+-
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
