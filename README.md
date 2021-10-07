@@ -5,7 +5,7 @@
   <img src="https://profile-counter.glitch.me/IjayAbby/count.svg" />
 </p>
 
-- 🔭 I’m currently a fulltime student at Microverse.
+- 🔭 I’m currently a student at Microverse.
 - 🌱 I’m currently learning FullStack web development, working collaboratively in a remote environment and agile methodologies. 
 - 👯 I’m looking to collaborate on any Open Source projects.
 - 💬 Ask me about Web Development using React Library.
