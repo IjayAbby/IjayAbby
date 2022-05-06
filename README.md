@@ -6,7 +6,7 @@
 </p>
 
 - 🔭 I’m a graduate from Microverse.
-- 🌱 I’m currently learning FullStack web development, working collaboratively in a remote environment and agile methodologies. 
+- 🌱 I’m currently working as a FullStack web developer, working collaboratively in a remote environment and agile methodologies. 
 - 👯 I’m looking to collaborate on any Open Source projects.
 - 💬 Ask me about Web Development using React Library.
 - 📫 How to reach me:[Twitter](https://twitter.com/Ijay_js), [LinkedIn](https://www.linkedin.com/in/ijayabby4/)
